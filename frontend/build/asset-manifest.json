@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/employee-checkin-system/static/js/main.991d631a.js",
+    "index.html": "/employee-checkin-system/index.html",
+    "main.991d631a.js.map": "/employee-checkin-system/static/js/main.991d631a.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.991d631a.js"
+  ]
+}
