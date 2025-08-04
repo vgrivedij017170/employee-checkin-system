@@ -54,11 +54,13 @@ employee-checkin-system/
  │   ├─ package.json
  │   └─ .env.example       # (Optional) Env example for frontend
  └─ README.md
- copy
-Prerequisites
-Node.js and npm installed
-MongoDB Atlas account and cluster created (free tier recommended)
-Optional: GitHub account for frontend deployment
+
+Prerequisites:
+
+    - Node.js and npm installed
+    - MongoDB Atlas account and cluster created (free tier recommended)
+    - Optional: GitHub account for frontend deployment
+
 Setup Instructions
 1. Backend Setup
  copy
