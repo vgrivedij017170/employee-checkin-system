@@ -1,6 +1,9 @@
 Employee Check-in/out System (MERN Stack)
 A fullstack MERN (MongoDB, Express, React, Node.js) application for employee check-in and check-out using pictorial capture, with admin and employee roles, attendance tracking, and profile management.
 
+Live:
+https://vgrivedij017170.github.io/employee-checkin-system or https://encr.pw/dexter12
+
 Features
 
 -Employee registration and login
